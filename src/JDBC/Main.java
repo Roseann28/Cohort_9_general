@@ -15,7 +15,7 @@ public class Main {
         Connection connection=dbUtil.writeDataFromObject();
         PreparedStatement preparedStatement;
         ResultSet resultSet;
-        List<String> students=new ArrayList<String>();
+        List<String> students=new ArrayList<>();
         Scanner scanner=new Scanner(System.in);
         int choice;
         System.out.println("Welcome to Student Management System!\n");
