@@ -1,0 +1,9 @@
+C026-01-1767/2018,Roseann Maina, Female, 16/07/1999,04/05/2018
+C026-01-0340/2018,Faith Njoroge, Female, 16/02/2000
+C026-01-0341/2018,Kamau Njunguna, Male, 16/10/1999
+
+amy 100
+david 100
+heraldo 50
+aakansha 75
+aleksa 150
